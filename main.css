@@ -272,7 +272,7 @@ footer {
     .header-grid {
         background: linear-gradient(to bottom,var(--very-dark-blue),var(--dark-blue),var(--soft-blue));
         clip-path: polygon(0 0, 100% 0%, 100% 100%, 0 93%);
-			height: 100vh;
+			height: 650px;
     }
     .header-nav {
         justify-content: space-between;
